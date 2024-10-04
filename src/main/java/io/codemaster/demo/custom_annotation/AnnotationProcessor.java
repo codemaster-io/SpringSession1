@@ -1,4 +1,4 @@
-package io.codemaster.custom_annotation;
+package io.codemaster.demo.custom_annotation;
 
 import java.lang.reflect.Field;
 
