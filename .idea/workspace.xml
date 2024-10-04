@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5ff61a9-1858-476e-b5af-f60a1cb435a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/codemaster/demo/custom_annotation/AnnotationProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/codemaster/demo/custom_annotation/CustomValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/codemaster/demo/custom_annotation/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/codemaster/demo/custom_annotation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/codemaster/demo/custom_annotation/Product.java" afterDir="false" />
-    </list>
+    <list default="true" id="b5ff61a9-1858-476e-b5af-f60a1cb435a0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,13 +61,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/io/codemaster/example2" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MainApplication (1)">
-    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.codemaster.demo.example1.MainApplication" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.codemaster.demo.custom_annotation.Main" />
       <module name="SpringSession1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.codemaster.demo.example1.*" />
+          <option name="PATTERN" value="io.codemaster.demo.custom_annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="io.codemaster.demo.design_patterns.factory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.codemaster.demo.design_patterns.factory.Main" />
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.codemaster.demo.example1.MainApplication" />
       <module name="SpringSession1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.codemaster.demo.design_patterns.factory.*" />
+          <option name="PATTERN" value="io.codemaster.demo.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.io.codemaster.demo.design_patterns.proxy.Main" />
         <item itemvalue="Spring Boot.MainApplication (1)" />
         <item itemvalue="Spring Boot.MainApplication" />
         <item itemvalue="Application.MainApplication" />
-        <item itemvalue="Application.io.codemaster.demo.design_patterns.proxy.Main" />
-        <item itemvalue="Application.io.codemaster.demo.design_patterns.factory.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +150,7 @@
       <workItem from="1728035302819" duration="5822000" />
       <workItem from="1728041139246" duration="941000" />
       <workItem from="1728042461529" duration="1689000" />
-      <workItem from="1728044782802" duration="315000" />
+      <workItem from="1728044782802" duration="1599000" />
     </task>
     <servers />
   </component>
